@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/.idea/Interface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/Java/InterfaceAbstract" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/AnonimousClass" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,0 +1,15 @@
+
+M
+java:S1481"+Remove this unused "driver" local variable.(™èæüýÿÿÿÿ8ú¯Ê¤Ò/
+Q
+java:S1481"/Remove this unused "kitchener2" local variable.(ùö©˜ÿÿÿÿÿ8ú¯Ê¤Ò/
+N
+java:S1481",Remove this unused "driver2" local variable.(ìÞŒÇþÿÿÿÿ8ú¯Ê¤Ò/
+]
+java:S1854";Remove this useless assignment to local variable "driver2".(ìÞŒÇþÿÿÿÿ8ú¯Ê¤Ò/
+`
+java:S1854">Remove this useless assignment to local variable "kitchener2".(ùö©˜ÿÿÿÿÿ8ú¯Ê¤Ò/
+\
+java:S1854":Remove this useless assignment to local variable "driver".(™èæüýÿÿÿÿ8ú¯Ê¤Ò/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È™÷Òøÿÿÿÿ8ÙÂÝ¤Ò/
